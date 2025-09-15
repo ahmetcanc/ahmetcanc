@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ahmet Can 👋  
 
-<!--
-**ahmetcanc/ahmetcanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Backend & Cloud Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working with **Go** and **C#/.NET**
+- 🌱 Learning more about **cloud-native development** and **scalable architectures**
+- ⚡ Passionate about **microservices**, **databases**, and **DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Go, C#, .NET, .NET MVC  
+- **Databases:** PostgreSQL, Redis, ArangoDB  
+- **Cloud:** AWS, Azure Services  
+- **DevOps & Tools:** Docker, Kubernetes, GitHub Actions  
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetcanc&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanc&layout=compact&theme=radical)  
+
+## 🌍 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmet-can-ceylan/)
+- ✉️ [E-mail](mailto:ahmetcanceylann81@gmail.com)  
+
+---
+⭐️ From [ahmetcanc](https://github.com/ahmetcanc)
