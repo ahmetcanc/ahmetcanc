@@ -1,8 +1,10 @@
-# Hi there, I'm Ahmet Can 👋  
-
-💻 **Backend Developer | Cloud & DevOps Enthusiast**  
-
----
+# <p align="center">Hi there, I'm Ahmet Can 👋</p>
+<p align="center">
+  💻 <b>Backend Developer | Cloud & DevOps Enthusiast</b>
+</p>
+<p align="center">
+  <b><a href="https://www.primod.io/">PrimeModality</a></b>
+</p>
 
 ## 🚀 About Me
 - 🔭 Currently working with **Go** and **C#/.NET**  
