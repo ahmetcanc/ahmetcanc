@@ -15,7 +15,8 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetcanc&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanc&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanc&exclude_repo=market-app,my-portfolio,portfolio,beekod-website,ahsen3d-website&layout=compact&theme=radical)
+
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmet-can-ceylan/)
