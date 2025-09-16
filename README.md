@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 Currently working with **Go** and **C#/.NET**  
+- 🔭 Currently working with **Go** and **C#/ASP.NET MVC**  
 - 🌱 Focused on **cloud-native development** & **scalable architectures**  
 - ⚡ Interested in **microservices**, **databases**, and **DevOps practices**  
 
